@@ -1,7 +1,11 @@
 # This is a React Native App that can be used to find jobs
+![Website Preview](Images/First.png) 
+![Second Website Preview](Images/Second.png) 
+![Image](Images/Third.png)
+
 - This project is made using React.JS and uses a custom API Key from www.rapidapi.com to show jobs that are near you
 - Made in react Native and can be used as an application in Android and iOS.  
-- Can be viewed as a dedicated Website also
+- Can be viewed as a dedicated Website.
 
 ## This application also features:
 - Visually appealing UI/UX designs
