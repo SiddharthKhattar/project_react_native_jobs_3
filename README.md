@@ -1,17 +1,26 @@
-# Build and Deploy a React Native App | 2023 React Native Course Tutorial for Beginners
-![RN Course](https://i.ibb.co/VWMxgZz/File-cover-8.png)
+# This is a React Native App that can be used to find jobs
+- This project is made using React.JS and uses a custom API Key from www.rapidapi.com to show jobs that are near you
+- Made in react Native and can be used as an application in Android and iOS.  
+- Can be viewed as a dedicated Website also
 
-## Introduction
-The existence of React Native makes React one of the most valuable skills to have. Learn how to transform 75% of your knowledge from making websites into building mobile applications today!
+## This application also features:
+- Visually appealing UI/UX designs
+- Fetches data from an external API and integrates it
+- Implements Search & Pagination Functionality
+- Create customAPI data fetching hooks
+- Has clean, organized, and maintainable code with proper architecture
+- Follows the best practices for React Native development
 
-Alongside building this application, you'll also learn how to:
-- develop visually appealing UI/UX designs
-- fetch data from an external API and integrate it
-- implement search & pagination functionality
-- create customAPI data fetching hooks
-- write clean, organized, and maintainable code with proper architecture
-- follow the best practices for React Native development
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+## 🤩 How to use
+
+```sh
+git clone https://github.com/SiddharthKhattar/project_react_native_jobs_3.git
+npm install
+npm start
+```
+
+## 📝 Notes
+
+- [Expo Router: Docs](https://expo.github.io/router)
+- [Expo Router: Repo](https://github.com/expo/router)
